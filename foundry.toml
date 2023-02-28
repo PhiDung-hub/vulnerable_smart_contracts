@@ -9,6 +9,7 @@ remappings = [
     'ds-test/=lib/forge-std/lib/ds-test/src/',
     '@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/',
     'solmate/=lib/solmate/src/',
+    '~/=src/'
 ]
 # list of libraries to link in the form of `<path to lib>:<lib name>:<address>`: `"src/MyLib.sol:MyLib:0x8De6DDbCd5053d32292AAA0D2105A32d108484a6"`
 # the <path to lib> supports remappings
